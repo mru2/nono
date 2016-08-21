@@ -1,5 +1,7 @@
 # Nono
 
+![](http://i.imgur.com/2N4NLnF.png)
+
 ## Setup
 
 Setup your local configuration
