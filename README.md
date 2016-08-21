@@ -1,24 +1,24 @@
 # Nono
 
-**TODO: Add description**
+## Setup
 
-## Installation
+Setup your local configuration
+```
+cp config/private.exs.sample config/private.exs
+```
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+Pull dependencies
+```
+mix deps.get
+```
 
-  1. Add `nono` to your list of dependencies in `mix.exs`:
+Run the local server
+```
+mix run --no-halt
+```
 
-    ```elixir
-    def deps do
-      [{:nono, "~> 0.1.0"}]
-    end
-    ```
+## Contribute
 
-  2. Ensure `nono` is started before your application:
-
-    ```elixir
-    def application do
-      [applications: [:nono]]
-    end
-    ```
-
+```
+mix test
+```

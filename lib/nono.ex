@@ -9,7 +9,7 @@ defmodule Nono do
     # Define workers and child supervisors to be supervised
     children = [
       # Starts a worker by calling: Nono.Worker.start_link(arg1, arg2, arg3)
-      # worker(Nono.Worker, [arg1, arg2, arg3]),
+      worker(Nono.Team.SlackAdapter, []),
     ]
 
     # See http://elixir-lang.org/docs/stable/elixir/Supervisor.html

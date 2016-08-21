@@ -1,0 +1,4 @@
+use Mix.Config
+
+config :slack, :token, <YOUR_SLACK_TOKEN>
+config :slack, :channel, <YOR SLACK CHANNEL> # e.g "#bot"
