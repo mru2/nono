@@ -1,6 +1,6 @@
 # Nono
 
-![](http://i.imgur.com/2N4NLnF.png)
+![](//i.imgur.com/2N4NLnF.png)
 
 ## Setup
 
@@ -24,3 +24,7 @@ mix run --no-halt
 ```
 mix test
 ```
+
+## High level view
+
+![](//i.imgur.com/9vYaGPo.png)
