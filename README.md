@@ -1,6 +1,6 @@
 # Nono
 
-![](//i.imgur.com/2N4NLnF.png)
+![](https://i.imgur.com/2N4NLnF.png)
 
 ## Setup
 
@@ -27,4 +27,4 @@ mix test
 
 ## High level view
 
-![](//i.imgur.com/9vYaGPo.png)
+![](https://i.imgur.com/9vYaGPo.png)
