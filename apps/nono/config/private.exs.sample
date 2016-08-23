@@ -1,0 +1,7 @@
+use Mix.Config
+
+config :slack, :token, <YOUR_SLACK_TOKEN>
+config :slack, :channel, <YOUR SLACK CHANNEL> # e.g "#bot"
+
+config :mbf, :app_id, <Microsoft App ID>
+config :mbf, :password, <Microsoft App Password>
